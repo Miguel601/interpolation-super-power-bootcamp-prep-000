@@ -1,10 +1,8 @@
 # Write your #display_rainbow method here
-Colors = 
+Colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 
-
-
-display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+Display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
  
  
   
