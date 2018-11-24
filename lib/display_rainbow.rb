@@ -7,6 +7,6 @@ Display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet
  
   
 def (person)
-  puts "Name: #{person[0]}, Age: #{person[1]}, Occupation: #{person[2]}"
-  puts "Contact: #{person[3]}"
+  puts "R: #{person[0]}, O: #{person[1]}, Y: #{person[2]}"
+  puts "G: #{person[3]}"
 end
