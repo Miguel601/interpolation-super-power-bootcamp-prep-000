@@ -6,6 +6,5 @@ Display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet
  
  
   
-def (person)
-  puts "R: #{person[0]}, O: #{person[1]}, Y: #{person[2]}"
-  puts "G: #{person[3]}" "B: #{person[3]}" "I: #{person[3]}" 
+def (Colors)
+  puts "R: #{Colors[0]}, O: #{Colors[1]}, Y: #{Colors[2]}" "G: #{Colors[3]}" "B: #{person[4]}" "I: #{person[5]}" "V: #{person[6]}"
